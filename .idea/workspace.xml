@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1aa99475-58ed-42db-9b10-ba7f05a99368" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/homePage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/technicalSkills.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/experience.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/download.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experience.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/acedemicProjects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/homePage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technicalSkills.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/technicalSkills.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,10 +36,18 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Documents\GitHub\My-ProfilePage\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Documents\GitHub\My-ProfilePage\Templates" />
+    </key>
   </component>
   <component name="RunManager">
-    <configuration name="homePage.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/My-ProfilePage/homePage.html" useBuiltInWebServerPort="true">
+    <configuration name="homePage.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/My-ProfilePage/Templates/homePage.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -53,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590174935065</updated>
-      <workItem from="1590174943217" duration="5710000" />
+      <workItem from="1590174943217" duration="13357000" />
     </task>
     <servers />
   </component>
