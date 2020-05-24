@@ -7,6 +7,7 @@
       <change beforePath="$PROJECT_DIR$/Templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Templates/experience.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/experience.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Templates/homePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/homePage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Templates/publication.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/publication.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Templates/technicalSkills.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/technicalSkills.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590174935065</updated>
-      <workItem from="1590174943217" duration="28580000" />
+      <workItem from="1590174943217" duration="32477000" />
     </task>
     <servers />
   </component>
