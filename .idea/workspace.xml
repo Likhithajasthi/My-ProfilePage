@@ -3,6 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="1aa99475-58ed-42db-9b10-ba7f05a99368" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Templates/acedemicProjects.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/acedemicProjects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Templates/experience.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/experience.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Templates/homePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/homePage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Templates/publication.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/publication.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Templates/technicalSkills.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/technicalSkills.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/background.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590174935065</updated>
-      <workItem from="1590174943217" duration="35536000" />
+      <workItem from="1590174943217" duration="38816000" />
     </task>
     <servers />
   </component>
