@@ -15,7 +15,7 @@ body {
 
 a {
   text-decoration: none;
-  color: #999;
+  color: white;
 }
 a:hover {
   color: #6633ff;
@@ -47,12 +47,13 @@ a:hover {
 }
 .nav li {
   padding: 10px 10px 10px 10px;
+
 }
 .nav a {
   transition: all .3s;
 }
 .nav a:hover {
-  color: white
+  color: darkgrey;
 }
 
 header {
